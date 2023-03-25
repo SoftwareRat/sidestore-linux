@@ -27,11 +27,9 @@ sudo pacman -S usbmuxd libimobiledevice libimobiledevice-utils
 ```
 
 ## Installation
-
-You can install SideStore by downloading the latest release from the [GitHub repository](https://github.com/username/repo) or by cloning the repository and building from source.
+You can install SideStore by downloading the [latest release](https://github.com/SoftwareRat/sidestore-linux/archive/refs/heads/master.zip) or by cloning the repository.
 
 ### Downloading the latest release
-
 1. Download the [latest release](https://github.com/SoftwareRat/sidestore-linux/archive/refs/heads/master.zip)
 3. Extract the archive to a directory of your choice.
 4. Open the terminal and navigate to the directory where you extracted the archive.
