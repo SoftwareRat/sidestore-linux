@@ -15,6 +15,13 @@ check_dependency "usbmuxd"
 check_dependency "wget"
 check_dependency "curl"
 
+# Check if "sidestore.ipa" exists in the current directory
+# If not, exit this script with an error
+if [[ ! -f "sidestore.ipa" ]]; then
+    echo "ERROR: sidestore.ipa not found. Please download it and try again."
+    exit 1
+fi
+
 # Execute code part only if the binary "AltServer" does not exist in the current directory
 if [[ ! -f "AltServer" ]]; then
     echo "AltServer binary not found. Downloading..."
