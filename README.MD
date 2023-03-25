@@ -1,10 +1,8 @@
-# SideStore
-
-SideStore is a command-line tool that allows you to install and manage iOS applications on your jailbroken device using your computer. It is built using the `libimobiledevice` library and requires `usbmuxd` to communicate with the device.
+# SideStore-Linux
+This is a script that allows you to install SideStore on your device using your computer.
 
 ## Dependencies
-
-Before installing SideStore, you need to make sure that the following dependencies are installed on your system:
+Before using it, you need to make sure that the following dependencies are installed on your system:
 
 - `usbmuxd`
 - `libimobiledevice`
