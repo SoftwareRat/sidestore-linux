@@ -1,4 +1,5 @@
 # SideStore-Linux
+**DISCLAIMER: This project is not related to AltStore or SideStore in any way.**
 This is a script that allows you to install SideStore on your device using your computer.
 
 ## Dependencies
