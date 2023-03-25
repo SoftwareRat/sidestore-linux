@@ -12,7 +12,7 @@ Before using it, you need to make sure that the following dependencies are insta
 ### Debian/Ubuntu
 To install the dependencies on Debian/Ubuntu, you can run the following command:
 ```
-sudo apt-get install usbmuxd libimobiledevice libimobiledevice-utils
+sudo apt-get install usbmuxd libimobiledevice6 libimobiledevice-utils
 ```
 
 ### Fedora
